@@ -1,4 +1,4 @@
-Get set up immediately with:
+### Get set up immediately with:
 
 * Babel for ES6 support
 * Import CSS and Sass transpilations including auto-prefixing for cross browser competability (-ms-... etc')
@@ -9,3 +9,12 @@ Get set up immediately with:
 * Webpack configuration for development and production
 * JS uglifying for production obfuscation
 * chunking vendor vs own code for caching.
+
+### How to install:
+
+1. git clone this repository
+2. npm install
+
+you're all set.
+
+Good luck!
